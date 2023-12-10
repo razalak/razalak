@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Eventuate**
 
-- 🌱 I’m currently learning **Nextjs**
-
 - 📫 How to reach me **razalak916@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
